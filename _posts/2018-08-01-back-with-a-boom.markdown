@@ -19,6 +19,10 @@ The first new episode in a little while
   * [Mu Python IDE reaches version 1.0](https://codewith.mu/)
   * [Jekyll](https://jekyllrb.com/)
   * [I made a knife]
+  
+* Andrew
+  * [You can go and have a pint on the actual balcony that Begbie throws his pint from in Trainspotting](http://www.kelbournesaint.com/)
+  * [Bicycles are fragile]
 
 
 Download the podcast from here:
