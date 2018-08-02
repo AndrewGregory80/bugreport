@@ -11,6 +11,6 @@ keywords: linux,brexit
 mp3length: 1
 ---
 
-Like the phoenix that rises from the ashes of fire, ... insert bold but ultimately meaningless and grandious introduction here 
+Like the phoenix that rises from the ashes of the fire... insert bold but ultimately meaningless and grandiose introduction here 
 
 Download the podcast from here:
